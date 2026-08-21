@@ -17,8 +17,7 @@ data/split/
 data/CUSTOM_DATASET.md
 # results/*.json
 # results/*.csv
-!results/*
-!results/.gitkeep
+
 gguf/
 *.gguf
 runs/
